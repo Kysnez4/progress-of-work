@@ -20,8 +20,8 @@
 
 ---
 
-### 2. Проект: Docker-развертывание
-**Готовая инфраструктура для Django проектов в контейнерах**
+### 2. Проект: LMS-сервис API
+**LMS-система, в которой каждый желающий может размещать свои полезные материалы или курсы**
 
 🔗 **Ссылки:**
 - [Репозиторий на GitHub](https://github.com/Kysnez4/Frest_django)
@@ -31,6 +31,8 @@
 - Полная контейнеризация (Docker Compose)
 - Сервисы: web, db, redis, celery, celery-beat
 - CI/CD через GitHub Actions (автодеплой)
-- Настройка переменных окружения
-
+- CRUD для урок и курсов.
+- Регистрация и JWT-авторизация.
+- готовый Docker файл и Docker Compose
+  
 **Стек:** Docker, Docker Compose, GitHub Actions, Nginx
