@@ -6,8 +6,8 @@
 **Сервис для отслеживания полезных привычек с Telegram-уведомлениями**
 
 🔗 **Ссылки:**
-- [Репозиторий на GitHub]([ссылка](https://github.com/Kysnez4/Habit_Tracker))
-- [Документация API (Swagger)]([ссылка](https://github.com/Kysnez4/Habit_Tracker))
+- [Репозиторий на GitHub](https://github.com/Kysnez4/Habit_Tracker)
+- [Документация API (Swagger)](https://github.com/Kysnez4/Habit_Tracker)
 
 **Что реализовано:**
 - Регистрация и JWT-авторизация
@@ -24,7 +24,7 @@
 **Готовая инфраструктура для Django проектов в контейнерах**
 
 🔗 **Ссылки:**
-- [Репозиторий на GitHub]([ссылка](https://github.com/Kysnez4/Frest_django))
+- [Репозиторий на GitHub](https://github.com/Kysnez4/Frest_django)
 - [Демо-версия](http://158.160.73.53:8000/) (выключил)
 
 **Что реализовано:**
